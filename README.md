@@ -23,4 +23,4 @@ This project implements **K-means clustering** to segment customers based on the
 
 1. **Clone the repository**:
    
-   git clone https://github.com/yourusername/repository-name.git
+
